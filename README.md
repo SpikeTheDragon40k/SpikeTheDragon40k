@@ -15,3 +15,4 @@ Let’s break things (safely) and learn together.
 * **Value:** 5600€
 * **Games owned:** 1371* **Games played:** 365 *(26%)*
 * **Hours on record:** 5,482.1h
+<img src="https://tryhackme-badges.s3.amazonaws.com/spikethedragon.png" alt="Your Image Badge" />
