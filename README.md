@@ -7,7 +7,7 @@ This blog is my little corner of the internet where I’ll share cool projects, 
 Let’s break things (safely) and learn together.
 
 [🔗 TryHackMe](https://tryhackme.com/p/spikethedragon) | [🔗 Hack The Box](https://app.hackthebox.com/profile/755202) <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/spikethedragon.png" alt="Your Image Badge" /><br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/spikethedragon.png" alt="Your Image Badge" />
 ![SpikeTheDragon40k's Stats](https://github-readme-stats.vercel.app/api?username=SpikeTheDragon40k&theme=dracula&show_icons=true&hide_border=false&count_private=true)<br>
 ![SpikeTheDragon40k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTheDragon40k&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
