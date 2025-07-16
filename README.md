@@ -12,5 +12,5 @@ Let’s break things (safely) and learn together.
 ![SpikeTheDragon40k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTheDragon40k&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## I'm currently working on:
-[SpikeTheDragon40k/sshman](https://github.com/SpikeTheDragon40k/sshman) - Secure SSH key and connection manager with encrypted vault (.vssh), key generation, and direct SSH connection support.
+[SpikeTheDragon40k/sshman](https://github.com/SpikeTheDragon40k/sshman) - Secure SSH key and connection manager with encrypted vault (.vssh), key generation, and direct SSH connection support.<br>
 [SpikeTheDragon40k/mtg-card-sw](https://github.com/SpikeTheDragon40k/mtg-card-sw) - This software suite provides a set of command-line tools for fetching and processing Magic: The Gathering card data. Using the Scryfall API, it allows users to query card details, enrich card lists with pricing information, and calculate the total value of a collection.
