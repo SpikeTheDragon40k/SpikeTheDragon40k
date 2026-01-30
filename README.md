@@ -7,7 +7,8 @@ This blog is my little corner of the internet where I’ll share cool projects, 
 Let’s break things (safely) and learn together.
 
 [🔗 TryHackMe](https://tryhackme.com/p/spikethedragon) | [🔗 Hack The Box](https://app.hackthebox.com/profile/755202) <br>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=671946" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/spikethedragon.png" alt="thm Image Badge" />
+
 
 ## I'm currently working on:
 [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands<br>
