@@ -15,3 +15,7 @@ Let’s break things (safely) and learn together.
 [SpikeTheDragon40k/sshman](https://github.com/SpikeTheDragon40k/sshman) - Secure SSH key and connection manager with encrypted vault (.vssh), key generation, and direct SSH connection support.<br>
 [SpikeTheDragon40k/mtg-card-sw](https://github.com/SpikeTheDragon40k/mtg-card-sw) - This software suite provides a set of command-line tools for fetching and processing Magic: The Gathering card data. Using the Scryfall API, it allows users to query card details, enrich card lists with pricing information, and calculate the total value of a collection.<br>
 [SpikeTheDragon40k/Cyber-Fortress-A-Cybersecurity-Manual-for-SMBs](https://github.com/SpikeTheDragon40k/Cyber-Fortress-A-Cybersecurity-Manual-for-SMBs/tree/main) - A practical cybersecurity guide for Small and Medium-sized business using open-source tools. From firewalls to incident management, a complete manual for sysadmins to build a digital fortress. [ITA](https://github.com/SpikeTheDragon40k/Cyber-Fortress-Manuale-Cybersecurity-per-PMI)
+
+---
+# HoloPin Badges
+[![An image of @spike_the_dragon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spike_the_dragon)](https://holopin.io/@spike_the_dragon)
