@@ -1,10 +1,12 @@
 # Hey there 👋 I'm Adriano
 
-I'm a cybersecurity nerd from Italy, who loves diving deep into threat intel, EDR/XDR platforms, and anything that makes systems more secure (and hackers' lives harder 😄). By day, I help secure enterprise environments and hunt down threats. By night, you'll find me tinkering with Raspberry Pis, breaking stuff in labs, or hacking away at challenges on TryHackMe and Hack The Box.
+I am a cybersecurity professional based in Italy, passionate about threat intelligence, EDR/XDR platforms, and building defenses that make attackers’ lives significantly harder.
 
-This blog is my little corner of the internet where I’ll share cool projects, threat hunting tips, lessons learned in the field, and maybe some hardware experiments along the way.
+By day, I work on securing enterprise environments and proactively hunting threats. In my free time, I explore home labs, experiment with Raspberry Pi projects, and tackle challenges on platforms like TryHackMe and Hack The Box.
 
-Let’s break things (safely) and learn together.
+This space is where I share projects, threat hunting insights, real-world lessons, and occasional hardware experiments.
+
+I am also a TLDR maintainer.
 
 [🔗 TryHackMe](https://tryhackme.com/p/spikethedragon) | [🔗 Hack The Box](https://app.hackthebox.com/profile/755202) <br>
 ![tryhackme stats](https://raw.githubusercontent.com/SpikeTheDragon40k/SpikeTheDragon40k/master/assets/thm_propic.png)
