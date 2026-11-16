@@ -18,6 +18,7 @@ I am also a TLDR maintainer.
 ---
 
 ## Projects
+| Img | Project | Link |
 | --- | --- | --- |
 | <img src="https://sshman-org.github.io/sshman/logo.png" width="40"> | **[sshman](https://sshman-org.github.io/sshman/)** — encrypted SSH key & connection manager. Keys never touch disk. | [Repo Link](https://github.com/sshman-org/sshman)
 | <img src="https://spikethedragon40k.github.io/vsdemake/favicon.png" width="40"> | **[vsdemake](https://spikethedragon40k.github.io/vsdemake/)** — unofficial Vampire Survivors 0.2.10 demake for Xbox 360, built from your own Steam copy. | [Repo Link](https://github.com/SpikeTheDragon40k/vsdemake) 
