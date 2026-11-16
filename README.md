@@ -14,8 +14,7 @@ I am also a TLDR maintainer.
 
 ## I'm currently working on:
 [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands<br>
-[SpikeTheDragon40k/sshman](https://github.com/SpikeTheDragon40k/sshman) - Secure SSH key and connection manager with encrypted vault (.vssh), key generation, and direct SSH connection support.<br>
-
+<img src="https://sshman-org.github.io/sshman/logo.png" width="40"> **[sshman](https://sshman-org.github.io/sshman/)** — encrypted SSH key & connection manager. Keys never touch disk.[repo](https://github.com/sshman-org/sshman) 
 
 ---
 # HoloPin Badges
