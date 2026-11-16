@@ -14,7 +14,7 @@ I am also a TLDR maintainer.
 
 ## I'm currently working on:
 [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands<br>
-<img src="https://sshman-org.github.io/sshman/logo.png" width="40"> **[sshman](https://sshman-org.github.io/sshman/)** — encrypted SSH key & connection manager. Keys never touch disk.[repo](https://github.com/sshman-org/sshman) 
+<img src="https://sshman-org.github.io/sshman/logo.png" width="40"> **[sshman](https://sshman-org.github.io/sshman/)** — encrypted SSH key & connection manager. Keys never touch disk.  [Repo Link](https://github.com/sshman-org/sshman) 
 
 ---
 # HoloPin Badges
