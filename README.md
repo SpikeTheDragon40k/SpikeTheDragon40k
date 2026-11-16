@@ -24,7 +24,7 @@ I am also a TLDR maintainer.
 | <img src="https://spikethedragon40k.github.io/DaybreakBuilder/logo.png" width="40"> | **[DaybreakBuilder](https://spikethedragon40k.github.io/DaybreakBuilder/)**: free D&D 5e character builder and GM toolkit for Windows and Linux. Reads Aurora content. | [repo](https://github.com/SpikeTheDragon40k/DaybreakBuilder) |
 | <img src="https://spikethedragon40k.github.io/vsdemake/favicon.png" width="40"> | **[vsdemake](https://spikethedragon40k.github.io/vsdemake/)** : unofficial Vampire Survivors 0.2.10 demake for Xbox 360, built from your own Steam copy. | [Repo Link](https://github.com/SpikeTheDragon40k/vsdemake) |
 | <img src="https://spikethedragon40k.github.io/xbox360_ISO2GOD2XBOX_Suite/logo.png" width="40"> | **[ISO2GOD2XBOX Suite](https://spikethedragon40k.github.io/xbox360_ISO2GOD2XBOX_Suite/)**: batch-convert Xbox 360 ISOs to Games on Demand and upload them to your console over FTP. | [Repo Link](https://github.com/SpikeTheDragon40k/xbox360_ISO2GOD2XBOX_Suite) |
-| <img src="https://spikethedragon40k.github.io/pico-orbit/logo.png" width="40"> | Single-player arena paddle demake for PICO-8: curve, dash, grab — last pilot standing wins. | [Repo Link](https://github.com/SpikeTheDragon40k/pico-orbit) |
+| <img src="https://spikethedragon40k.github.io/pico-orbit/logo.png" width="40"> | [Pico-Orbit](https://spikethedragon40k.github.io/pico-orbit/) : Single-player arena paddle demake for PICO-8: curve, dash, grab — last pilot standing wins. | [Repo Link](https://github.com/SpikeTheDragon40k/pico-orbit) |
 
 ---
 # HoloPin Badges
