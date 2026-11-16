@@ -14,9 +14,13 @@ I am also a TLDR maintainer.
 
 ## I'm currently working on:
 [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands<br>
-<img src="https://sshman-org.github.io/sshman/logo.png" width="40"> **[sshman](https://sshman-org.github.io/sshman/)** — encrypted SSH key & connection manager. Keys never touch disk.  [Repo Link](https://github.com/sshman-org/sshman)
 
-<img src="https://spikethedragon40k.github.io/vsdemake/favicon.png" width="40"> **[vsdemake](https://spikethedragon40k.github.io/vsdemake/)** — unofficial Vampire Survivors 0.2.10 demake for Xbox 360, built from your own Steam copy. [Repo Link](https://github.com/SpikeTheDragon40k/vsdemake) 
+---
+
+## Projects
+| <img src="https://sshman-org.github.io/sshman/logo.png" width="40"> | **[sshman](https://sshman-org.github.io/sshman/)** — encrypted SSH key & connection manager. Keys never touch disk. | [Repo Link](https://github.com/sshman-org/sshman)
+| <img src="https://spikethedragon40k.github.io/vsdemake/favicon.png" width="40"> | **[vsdemake](https://spikethedragon40k.github.io/vsdemake/)** — unofficial Vampire Survivors 0.2.10 demake for Xbox 360, built from your own Steam copy. | [Repo Link](https://github.com/SpikeTheDragon40k/vsdemake) 
+| <img src="https://spikethedragon40k.github.io/xbox360_ISO2GOD2XBOX_Suite/logo.png" width="40"> | **[ISO2GOD2XBOX Suite](https://spikethedragon40k.github.io/xbox360_ISO2GOD2XBOX_Suite/)**: batch-convert Xbox 360 ISOs to Games on Demand and upload them to your console over FTP. | [Repo Link](https://github.com/SpikeTheDragon40k/xbox360_ISO2GOD2XBOX_Suite) |
 
 ---
 # HoloPin Badges
